@@ -29,4 +29,4 @@ Created by **Benbrik Adam**.
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/quiz-game.git
+   git clone [https://github.com/BenbrikAdam/HTML-CSS-JS-beginner-projects.git](https://github.com/BenbrikAdam/HTML-CSS-JS-beginner-projects.git)
